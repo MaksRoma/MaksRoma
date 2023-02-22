@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaksRoma
-- 👀 I’m interested in digital electronics, mcu's and chip's
+- 👀 I’m interested in digital electronics and mcu's
 - 🌱 I’m currently learning C, Arduino Uno
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://t.me/romka_bomka
 
 <!---
